@@ -1,7 +1,6 @@
 <h2>Hi 👋, I'm Ridvan</h2>
 <h3>a passionate full stack developer from Germany</h3>
 
-<p align="left"> <a href="https://twitter.com/RidvanChasan" target="blank"><img src="https://img.shields.io/twitter/follow/RidvanChasan?logo=twitter&style=for-the-badge" alt="RidvanChasan" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.rich-informatik.de](https://www.rich-informatik.de)
 
